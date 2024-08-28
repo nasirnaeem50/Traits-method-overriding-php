@@ -1,0 +1,1 @@
+# Traits-method-overriding-php
